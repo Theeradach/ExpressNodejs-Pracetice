@@ -1,0 +1,23 @@
+{
+  "name": "expressnodejs",
+  "version": "1.0.0",
+  "description": "Express&Nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ExpressNodejs-Pracetice"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs"
+  ],
+  "author": "theeradach subsin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
